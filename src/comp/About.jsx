@@ -28,7 +28,7 @@ function About() {
             </div>
         </div>
          <div className='text-center'>
-         <button className='bg-red-300 hover:bg-red-950 hover:rounded hover:text-white px-2  '>Downloard CV</button>
+         <button className='bg-red-300 hover:bg-red-950 hover:rounded hover:text-white px-2  '><a href="../../public/ResumeGaganjotsingh.pdf" download="ResumeGaganjotsingh.pdf">Downloard CV</a></button>
          </div>
     </div>
 </div>
