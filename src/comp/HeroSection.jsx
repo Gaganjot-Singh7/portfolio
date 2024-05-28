@@ -8,7 +8,7 @@ function HeroSection() {
         <p className='p-2'>MERN Stack Web Developer.Click on the given button to visit my Github Account </p>
         <button className='bg-red-300 px-2  rounded-xl hover:bg-red-900 text-white'><a href="https://github.com/dashboard " target='_blank'>Github</a></button>
         </div>
-    <div className=' flex justify-center p-5 '><img src="../../images/Image1.jpg" alt="image" width="250 x 250" className='  '/></div>
+    <div className=' flex justify-center p-5 '><img src="../../images/Image1.jpg" alt="image" width="250 x 250" className='  ' /></div>
     </div>
   )
 }
