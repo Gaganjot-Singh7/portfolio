@@ -8,7 +8,7 @@ function Navbar() {
         <nav className="bg-gray-800 p-4">
             <div className="container mx-auto flex justify-between items-center">
                 <div className="text-white font-bold text-xl hidden lg:block ">
-                    GAGANJOT SINGH
+                    <Link to="home">GAGANJOT SINGH</Link>
                 </div>
                 <div className="md:hidden">
                     <button onClick={() => setIsOpen(!isOpen)} className="text-white focus:outline-none">
