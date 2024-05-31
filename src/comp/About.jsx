@@ -6,7 +6,7 @@ function About() {
     <div className='py-6 flex justify-center'><img src="../../images/image2.jpg" className='h-[80%] rounded-xl ' width="400 X 270" alt="" /></div>
     <div className='p-6 flex flex-col gap-2'>
         <h2 className='font-bold text-2xl text-center'>My Bio-Data</h2>
-        <p>I have completed B.tech in Cse from Ct Group of Institute Maqsudan during 2019-2023 Batch with 8.21 CGPA out of 10 CGPA </p>
+        <p>I have completed B.tech in Cse from CT Group of Institute Maqsudan during 2019-2023 Batch with 8.21 CGPA out of 10 CGPA </p>
         <div className=' '>
             <div className=''>HTML: 80%
                 <p className=' w-[80%] border border-solid border-green-900'></p>
