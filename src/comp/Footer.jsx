@@ -19,7 +19,7 @@ function Footer() {
         <li className='hover:underline list-none p-4 text-center'><a href="https://gaganjotportfolio.netlify.app/">Portfolio</a></li>
       </div>
       <div>
-        <li className='hover:underline list-none p-4 text-center font-bold text-xl'><Link to="about">Links</Link></li>
+        <li className='hover:underline list-none p-4 text-center font-bold text-xl'><Link to="about">Navigation</Link></li>
         <li className='hover:underline list-none p-4 text-center'><Link to="home">Home</Link></li>
         <li className='hover:underline list-none p-4 text-center'><Link to="knowledge">Knowledge</Link></li>
         <li className='hover:underline list-none p-4 text-center'><Link to="about">About</Link></li>
@@ -28,7 +28,7 @@ function Footer() {
       </div>
       <div>
         <li className='hover:underline list-none p-4 text-center font-bold text-xl'><Link to="#">Have a query</Link></li>
-        <li className='hover:underline list-none p-4 text-center'><a href="jot77430@gmail.com">Gmail: jot77430@gmail.com</a></li>
+        <li className='hover:underline list-none p-4 text-center'><a href="#">Gmail: jot77430@gmail.com</a></li>
         <li className='hover:underline list-none p-4 text-center'><a href="#">Phone: +91-77430-61346</a></li>
         <li className='hover:underline list-none p-4 text-center'><a href="https://www.linkedin.com/in/gaganjot-singh-b892b61bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkdin</a></li>
 

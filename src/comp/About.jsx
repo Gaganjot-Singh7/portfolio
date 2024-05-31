@@ -14,7 +14,7 @@ function About() {
             <div>css: 70%
                 <p className=' w-[70%] border border-solid border-red-900'></p>
             </div>
-            <div>Reactjs: 80%
+            <div>Reactjs: 88%
                 <p className=' w-[80%] border border-solid border-black'></p>
             </div>
             <div>Nodejs: 85%
@@ -28,7 +28,7 @@ function About() {
             </div>
         </div>
          <div className='text-center'>
-         <button className='bg-red-300 hover:bg-red-950 hover:rounded hover:text-white px-2  '><a href="../../public/ResumeGaganjotsingh.pdf" download="ResumeGaganjotsingh.pdf">Downloard CV</a></button>
+         <button className='bg-red-300 hover:bg-red-950 hover:rounded hover:text-white px-2  '><a href="../../public/ResumeGaganjotsingh.pdf" download="ResumeGaganjotsingh.pdf">Download CV</a></button>
          </div>
     </div>
 </div>
