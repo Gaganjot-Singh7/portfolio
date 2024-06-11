@@ -20,7 +20,7 @@ function Footer() {
       </div>
       <div>
         <li className='hover:underline list-none p-4 text-center font-bold text-xl'><Link to="about">Navigation</Link></li>
-        <li className='hover:underline list-none p-4 text-center'><Link to="home">Home</Link></li>
+        <li className='hover:underline list-none p-4 text-center'><Link to="/">Home</Link></li>
         <li className='hover:underline list-none p-4 text-center'><Link to="knowledge">Knowledge</Link></li>
         <li className='hover:underline list-none p-4 text-center'><Link to="about">About</Link></li>
         <li className='hover:underline list-none p-4 text-center'><Link to="contact">Contact</Link></li>
